@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.answer {
+  margin-top: 15px;
+}
+
+.button1{
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px;
+  margin-right: 0px;
+  background-color: #2a4b7d;
+  color: #FFF;
+  border: 2px solid #2a4b7d;
+  }
+
+.form-card {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 100px;
+  box-shadow: 0 10px 20px 0 rgba(0,0,0,.1), 0 6px 20px 0 rgba(0,0,0,.1);
+  background-color: #ffffff;
+}
+
+
+.button1:hover{
+  background-color: #092d62;
+  border: 2px solid #092d62;
+  cursor: pointer;
+  }
+
+input { 
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #a5d5ff;
+  width: 165px;
+  border-radius:2px;
+  }
